@@ -1,0 +1,21 @@
+{
+  "name": "cs08",
+  "version": "1.0.0",
+  "description": "Computer Science - Case Study 08 - Selection Sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computer science",
+    "javascript",
+    "js",
+    "algoritma",
+    "algorithm",
+    "sort algorithm",
+    "selection sort",
+    "nodejs"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT"
+}
